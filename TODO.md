@@ -1,0 +1,7 @@
+- [x] Update README.md: Replace "Lovable" with "Whosthees", change "lovable.dev" to "whosthees.dev"
+- [x] Update index.html: Change title, meta to "Whosthees", remove Lovable-related meta
+- [x] Update package.json: Remove "lovable-tagger", add homepage
+- [x] Update vite.config.ts: Remove componentTagger import and usage, set base to "/"
+- [x] Update .github/workflows/deploy.yml to use official GitHub Pages actions
+- [x] Update README.md deployment instructions for main repo
+- [x] Run npm install to update package-lock.json
